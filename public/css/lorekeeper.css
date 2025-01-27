@@ -79,6 +79,12 @@ body {
     background-color: #ddd;
 }
 
+/* Manually added site background - STF - 2025-01-11 */
+#app {
+    background-image: url(https://vespercove.com/css/images/starfield-background.jpg);
+}
+
+
 main {
     flex-grow: 1;
     display: flex;
